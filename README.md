@@ -1,7 +1,7 @@
 # Social Network Analysis with Python
 
 <p align="center">
-  <b>This repository for the "Social Network Analysis with Python" course on Maktabkhooneh.</b>
+  <b>"Social Network Analysis with Python"</b>
 </p>
 
 ---
