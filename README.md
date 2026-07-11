@@ -1,10 +1,5 @@
 # Social Network Analysis with Python
 
-<p align="center">
-  <b>"Social Network Analysis in Python"</b>
-</p>
-
----
 
 ## 📖 About the Course
 
