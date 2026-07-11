@@ -1,14 +1,14 @@
 # Social Network Analysis with Python
 
 <p align="center">
-  <b>Official repository for the "Social Network Analysis with Python" course on Maktabkhooneh.</b>
+  <b>This repository for the "Social Network Analysis with Python" course on Maktabkhooneh.</b>
 </p>
 
 ---
 
 ## 📖 About the Course
 
-This repository contains the datasets, source code, Jupyter notebooks, and additional materials used throughout the **Social Network Analysis with Python** course.
+This repository contains the datasets, for source code and additional materials used throughout the **Social Network Analysis with Python** course visit the [Maktabkhooneh](https://maktabkhooneh.org/).
 
 The course covers both the theoretical foundations and practical implementation of social network analysis using Python.
 
@@ -26,16 +26,6 @@ The course covers both the theoretical foundations and practical implementation 
 
 ---
 
-## 📂 Repository Structure
-
-```
-├── Datasets/
-├── Notebooks/
-├── Code/
-└── README.md
-```
-
----
 
 ## 📊 Datasets
 
