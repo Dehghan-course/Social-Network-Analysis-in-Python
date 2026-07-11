@@ -1,7 +1,7 @@
 # Social Network Analysis with Python
 
 <p align="center">
-  <b>"Social Network Analysis with Python"</b>
+  <b>"Social Network Analysis in Python"</b>
 </p>
 
 ---
