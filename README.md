@@ -1,5 +1,5 @@
 # Social Network Analysis with Python
-
+🇮🇷 A Persian version of this README is available at [README_FA.md](README_FA.md).
 
 ## 📖 About the Course
 
