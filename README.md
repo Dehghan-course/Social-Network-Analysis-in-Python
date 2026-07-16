@@ -26,6 +26,8 @@ The course covers both the theoretical foundations and practical implementation 
 
 All datasets used in the course are available in this repository.
 
+If you would like, you can publish your solved exercises in your personal GitHub repository.
+
 If you have any problems while solving the exercises, please create a new issue.
 
 ---
